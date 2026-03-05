@@ -20,7 +20,7 @@ Correo: **jgcueropadilla@gmail.com**
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,angular,bootstrap,github,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap,github,vscode&perline=10"/>
 </a>
 </p>
 
